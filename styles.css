@@ -44,11 +44,12 @@ footer p {
   border-radius: 7px;
   box-shadow: 0 2px 5px #ccc;
   width: 240px;
-  height :100px;
+  height :fit-content;
   margin: 48px;
   float: left;
   position: relative;
   padding: 22px;
+  padding-bottom:10px;
 }
 .note h1 {
   font-size: 1.1em;
@@ -106,7 +107,7 @@ button{
  position: relative;
  right: 5px;
  height: 35px;
- bottom:39px;
+ bottom:3px;
  background-color: #fff;
  width: 35px;
  padding: 1px;
